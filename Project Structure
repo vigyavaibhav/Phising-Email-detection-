@@ -1,0 +1,15 @@
+Phishing-Email-Detection/
+│
+├── app.py
+├── train.py
+├── requirements.txt
+├── README.md
+├── dataset.csv
+├── phishing_model.pkl
+├── vectorizer.pkl
+│
+├── templates/
+│     └── index.html
+│
+└── static/
+      └── style.css
